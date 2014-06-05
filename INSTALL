@@ -1,0 +1,9 @@
+Building KashmirCoin
+
+See doc/readme-qt.rst for instructions on building Kashmircoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kashmircoin.
+
+See doc/build-*.txt for instructions on building kashmircoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KashmirCoin.
